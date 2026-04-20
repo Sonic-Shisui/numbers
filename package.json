@@ -1,0 +1,16 @@
+{
+  "name": "number-conversion-api",
+  "version": "1.0.0",
+  "description": "API to convert numbers with suffixes (k, m, b, t, q, Q, s, S, o, n, d)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
